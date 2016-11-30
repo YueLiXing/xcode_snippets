@@ -3,10 +3,12 @@ SRC_HOME=`pwd`
 rm -rdf CodeSnippets/*.codesnippet
 cp -af ~/Library/Developer/Xcode/UserData/CodeSnippets/*.codesnippet ${SRC_HOME}/CodeSnippets/
 
+git add *
+
 if [ ! -n "$1" ] ;then
-    git commit -a -m "update"
+    git commit -m "update"
 else 
-    git commit -a -m $1
+    git commit -m $1
 fi
 
 git push -u origin master

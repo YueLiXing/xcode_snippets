@@ -6,7 +6,8 @@ How To Use
 ----------
 Usage:
 ```shell
-git clone https://github.com/afantree/xcode_snippets.git
+git clone https://github.com/YueLiXing/xcode_snippets.git
+
 cd xcode_snippets
 ./setup.sh
 ```
