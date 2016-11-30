@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>_mainTableVIew=</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>CodeBlock</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>UITableView      *_mainTableView;
+//铺上tableVIew
+    _mainTableView=[[UITableView alloc] initWithFrame:&lt;#CGRect#&gt; style:UITableViewStyleGrouped];
+    _mainTableView.delegate=self;
+    _mainTableView.dataSource=self;
+    _mainTableView.bounces=YES;
+    _mainTableView.userInteractionEnabled=YES;
+    _mainTableView.showsVerticalScrollIndicator = NO;
+    _mainTableView.separatorStyle=UITableViewCellSeparatorStyleSingleLine;
+    [self.view addSubview:_mainTableView];
+    [_mainTableView release];</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>45BC2F21-64C5-4B7E-A41A-F98AD1FFAD28</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>创建table</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
