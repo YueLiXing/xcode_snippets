@@ -9,4 +9,4 @@ else
     git commit -a -m $1
 fi
 
-# git push -u origin master
+git push -u origin master
