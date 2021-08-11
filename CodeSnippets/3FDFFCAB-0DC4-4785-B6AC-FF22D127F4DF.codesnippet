@@ -14,12 +14,13 @@
         &lt;#statements#&gt;
     }
     return self;
-}
-</string>
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3FDFFCAB-0DC4-4785-B6AC-FF22D127F4DF</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
 	<string>init UITableViewHeaderFooterView </string>
 	<key>IDECodeSnippetUserSnippet</key>

@@ -3,26 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>buttonClick</string>
+	<string>mark</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (void)buttonClick:(UIButton *)button {
-    &lt;#code#&gt;
-}</string>
+	<string>// MARK: - &lt;#desc#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>11A31AE7-CEB1-4A7F-B5F0-C7F3573A0EDA</string>
+	<string>545A4AA0-D50B-482B-A6F3-9FABCBAD9731</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>buttonClick</string>
+	<string>mark</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

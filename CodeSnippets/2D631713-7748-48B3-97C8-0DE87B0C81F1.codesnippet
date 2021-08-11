@@ -14,12 +14,13 @@
         &lt;#statements#&gt;
     }
     return self;
-}
-</string>
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2D631713-7748-48B3-97C8-0DE87B0C81F1</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
 	<string>init CollectionViewCell</string>
 	<key>IDECodeSnippetUserSnippet</key>

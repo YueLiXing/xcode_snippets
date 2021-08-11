@@ -15,12 +15,13 @@
         &lt;#code#&gt;
     }
     return self;
-}
-</string>
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>67462AC5-3B92-48D4-AECF-D96A4F2B60B0</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
 	<string>init TableViewCell</string>
 	<key>IDECodeSnippetUserSnippet</key>
