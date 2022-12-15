@@ -13,7 +13,9 @@
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8622A5C9-6DC9-40DC-8021-FEB1B3BBF763</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
 	<string>@available(iOS &lt;#version#&gt;,*)</string>
 	<key>IDECodeSnippetUserSnippet</key>
